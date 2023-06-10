@@ -125,7 +125,7 @@ export default hopeTheme({
     comment: {
       // You should generate and use your own comment service
       provider: "Waline",
-      serverURL: "https://blog-comment-small-universe.vercel.app/",
+      serverURL: "https://waline-1-w6940618.deta.app/",
     },
 
     // all features are enabled for demo, only preserve features you need here
