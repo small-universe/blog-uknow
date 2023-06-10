@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: http://www.dreamagain.top/blog-uknow/sitemap.xml
+Sitemap: https://gitee.com/small-universe/blog-uknow/sitemap.xml

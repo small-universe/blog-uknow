@@ -23,6 +23,7 @@ export default hopeTheme({
 
   /** 外观设置 */
   fullscreen: true,
+  favicon: "/favicon.ico",
 
   blog: {
     medias: {
