@@ -38,5 +38,5 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: <a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | <a href='/intro.html'>关于本站</a>
+# footer: <a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | <a href='/intro.html'>关于本站</a>
 ---

@@ -73,8 +73,10 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "<a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | <a href='/intro.html'>关于本站</a>",
-      copyright: "MIT Licensed | Copyright © 2023-present nanci",
+      footer: "<a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> "
+            + "| Powered by <a href='https://theme-hope.vuejs.press/zh/' target='_blank'>VuePress-Theme-Hope</a> "
+            + "| <a href='/blog-uknow/intro.html'>关于本站</a> ",
+      copyright: "MIT Licensed | Copyright © 2023-present Nanci",
 
       displayFooter: true,
 
