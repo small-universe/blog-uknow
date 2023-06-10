@@ -15,11 +15,14 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "small-universe/blog-uknow",
 
   docsDir: "src",
+
+  /** 外观设置 */
+  fullscreen: true,
 
   blog: {
     medias: {
@@ -69,13 +72,16 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "<a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | <a href='/intro.html'>关于本站</a>",
+      copyright: "MIT Licensed | Copyright © 2023-present nanci",
 
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
-        intro: "/zh/intro.html",
+        description: "Java全栈开发",
+        intro: "/intro.html",
+        avatar: "/avatar.jpg",
+        roundAvatar: true
       },
 
       // page meta

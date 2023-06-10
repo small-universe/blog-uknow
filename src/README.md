@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-bgImage: /hero.jpg
+bgImage: /bg.jpg
 heroText: UKnow
 heroFullScreen: true
 tagline: You learn and you know.
@@ -38,5 +38,5 @@ projects:
   #   desc: 自定义详细介绍
   #   link: https://你的自定义链接
 
-footer: <a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | 关于本站
+footer: <a href='http://beian.miit.gov.cn/' target='_blank'>滇ICP备2023003597号</a> | <a href='/intro.html'>关于本站</a>
 ---

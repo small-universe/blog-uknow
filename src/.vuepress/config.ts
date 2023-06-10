@@ -7,7 +7,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "UKnow",
+      title: "",
       description: "You learn and you know.",
       
     },
