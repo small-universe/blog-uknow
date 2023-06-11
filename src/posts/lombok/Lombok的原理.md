@@ -1,5 +1,6 @@
 ---
 title: Lombok的原理
+date: 2023-06-10
 category:
   - Java
 tag:
