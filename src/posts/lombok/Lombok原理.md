@@ -1,5 +1,5 @@
 ---
-title: Lombok的原理
+title: Lombok原理
 date: 2023-06-10
 category:
   - Java
